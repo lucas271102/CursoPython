@@ -26,6 +26,6 @@ lista.remove(232)
 #si usamos reverse = true, los ordena al reves.
 lista.sort()
 
-#verificando si un elemento se enecuentra en la lista 
+#verificando si un elemento se enecuentra en la lista. elementos completos 
 elemento_encontrado = lista.index(3452)
 print (elemento_encontrado)
