@@ -23,5 +23,9 @@ lista.remove(232)
 #lista.clear()
 
 #funcion que ordena los elemtnos de manera ascendente 
-lista.sort(reverse=True)
-print (lista)
+#si usamos reverse = true, los ordena al reves.
+lista.sort()
+
+#verificando si un elemento se enecuentra en la lista 
+elemento_encontrado = lista.index(3452)
+print (elemento_encontrado)
