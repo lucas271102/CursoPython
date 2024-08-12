@@ -6,6 +6,8 @@ from modulo_saludar import saludar
 
 #creasmos las variables con los resultados
 saludo = saludar("Lucas")
+#para ver las propiedades y metodos 
+#print(dir(m_saludar))
 
 #mostramos los resultados 
 
