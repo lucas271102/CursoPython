@@ -1,3 +1,6 @@
 import pandas as pd
-archivo = pd.read_csv("archivos//datos.csv")
-print(archivo) 
+#df = dataframe
+#usando la funcion read_csv para leer el archivo csv
+
+df = pd.read_csv("archivos//datos.csv")
+print(df["nombre"]) 
