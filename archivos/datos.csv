@@ -1,4 +1,8 @@
-"nombre", "apellido", "edad"
-"lucas", "speziale", "21"
-"juan","lopez", "25"
-"maria", "garcia", "30"
+nombre, apellido, edad
+"lucas", "speziale", 21
+"juan","lopez", 25
+"maria", "garcia", 30
+"pedro", "perez", 35
+"octavio", "campos", 65
+"esteban", "zapata", 47
+"cristian", "martin", 47
