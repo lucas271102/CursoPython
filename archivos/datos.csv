@@ -1,8 +1,27 @@
-nombre, apellido, edad
-"lucas", "speziale", 21
-"juan","lopez", 25
-"maria", "garcia", 30
-"pedro", "perez", 35
-"octavio", "campos", 65
-"esteban", "zapata", 47
-"cristian", "martin", 47
+"nombre","apellido","edad"
+"lucas", "speziale",    21
+"juan", "lopez",        25
+"maria", "garcia",      30
+"pedro", "perez",       35
+"octavio", "campos",    65
+"esteban", "zapata",    47
+"cristian", "martin",   47
+"sofia", "rodriguez",   29
+"martin", "diaz",       34
+"julieta", "torres",    28
+"ramon", "gonzalez",    52
+"ana", "fernandez",     40
+"pablo", "romero",      31
+"valentina", "cruz",    24
+"daniel", "mendez",     38
+"luciana", "sanchez",   32
+"sergio", "ibañez",     45
+"andrea", "morales",    36
+"marcelo", "ruiz",      53
+"noelia", "salazar",    27
+"nicolas", "vazquez",   33
+"monica", "gimenez",    42
+"leandro", "montes",    37
+"paula", "castillo",    26
+"fernando", "rios",     39
+"emilia", "vera",       22
