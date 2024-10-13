@@ -11,5 +11,5 @@ df['edad'] = df['edad'].astype(str)
 
 
 #reemplazando datos 
-df['apellido'].replace("lopez", "speziale")
+df['apellido'].replace("lopez", "speziale", inplace=True)
 print(df['apellido'])
