@@ -9,7 +9,7 @@ print(estadisticas.round(1))
 
 #sns.lineplot(x="Mes", y="Ventas", data=dfv )
 sns.lineplot(x="Mes", y="Variación mensual", data=dfv )
-plt.plot("Dec23", 25.5, "o" )
+plt.plot("Dic23", 25.5, "o" )
 plt.title('Inflacion dic23 - oct24')
 plt.savefig('archivos_graficos/graficoinflacion.png')
 plt.show()
