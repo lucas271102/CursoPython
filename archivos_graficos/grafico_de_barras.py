@@ -27,4 +27,6 @@ plt.ylabel('Ingresos')
 plt.xticks(rotation=45)
 plt.tight_layout()
 plt.savefig('archivos_graficos/ingresos.png')
+
+
 plt.show()
