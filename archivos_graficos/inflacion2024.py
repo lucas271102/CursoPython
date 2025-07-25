@@ -1,8 +1,8 @@
 import csv 
 import matplotlib.pyplot as plt
-meses = ["Dic23", "Ene24", "Feb24", "Mar24", "Abr24", "May24", "Jun24", "Jul24", "Ago24", "Sept24", "Oct24"]
+meses = ["Dic23", "Ene24", "Feb24", "Mar24", "Abr24", "May24", "Jun24", "Jul24", "Ago24", "Sept24", "Oct24", "Nov 24", "Dic24", "Ene 25", "Feb25", "Mar 25", "Abr 25", "May25", "Jun25"]
 
-variacion = [25.5, 20.6, 13.2,11 , 8.8, 4.2, 4.6, 4.0, 4.2, 3.5, 2.7]
+variacion = [25.5, 20.6, 13.2,11 , 8.8, 4.2, 4.6, 4.0, 4.2, 3.5, 2.7, 2.4, 2.8, 2.5, 2.2, 3.7, 2.4, 1.5, 1.6]
 
 #escribir en un nuevo archivo csv 
 with open ('archivos_graficos/inflacion.csv', 'w', newline='') as archivo_csv:
